@@ -1,4 +1,4 @@
-# StudyFlow REST API - Краткая справка
+# StudyFlow REST API
 
 ## Основные endpoint'ы
 
